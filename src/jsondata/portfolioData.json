@@ -1,0 +1,136 @@
+   {
+      "PersonalDetails": {
+         "profilePic": "/profile-pic.jpg",
+         "name": "Uma shankar L",
+         "Profession": "Software developer",
+         "linkedInURL": "https://www.linkedin.com/in/uma-shankar-developer/",
+         "githubURL": "https://github.com/shankar1804",
+         "whatsappURL": "",
+         "mobile": "9704898823",
+         "email": "lakkojuumashankar97@gmail.com",
+         "resumeName": "Uma_Shankar_resume.pdf"
+      },
+      "home": {
+         "SkillsAndTechnologies": [
+            {
+               "id": 1,
+               "title": "Frontend Development",
+               "value": " JavaScript, typeScript, Next.js, Angular"
+            },
+            {
+               "id": 2,
+               "title": "Backend & API Development",
+               "value": "Node.js"
+            }
+         ],
+         "description": [
+            "Hi, I'm Umashankar, a dedicated web developer with a strong focus on building efficient, responsive applications. I specialize in JavaScript, React, and Next.js, working on projects that require scalable, high-performance solutions. I'm committed to advancing my technical skills and staying up-to-date with industry best practices. If you'd like to collaborate or discuss a project, feel free to reach out!"
+         ]
+      },
+      "resume": {
+         "education": [
+            {
+               "university": "Aditya degree college",
+               "year": "2019-2022",
+               "course": "Graduation (BCA)"
+            },
+            {
+               "university": "Narayana Junior college",
+               "year": "2017-2019",
+               "course": "Intermediate (MPC)"
+            },
+            {
+               "university": "Bhashyam public school",
+               "year": "2016-2017",
+               "course": "SSC"
+            }
+         ],
+         "experience": [
+            {
+               "Company": "Tekreant india pvt ltd",
+               "year": "Feb-2023 - Jan 2025",
+               "role": "Software developer"
+            },
+            {
+               "Company": "Tekreant india pvt ltd",
+               "year": "Nov 2022 - Feb-2023",
+               "role": "Intenship"
+            }
+         ],
+         "Skills": [
+            "Next JS",
+            "Node JS",
+            "Mongo DB",
+            "Angular",
+            "SQL"
+         ]
+      },
+      "work": {
+         "Projects": [
+            {
+               "Company": "Tekreant india pvt ltd",
+               "title": "Joberra",
+               "description": [
+                  "Joberra, a premier online platform, facilitates connections between job seekers and employers across multiple industries.",
+                  "Project objectives focused on improving user experience and enhancing platform functionality to benefit both job seekers and recruiters.",
+                  "Integrated advanced search filters to streamline job searches, allowing users to find opportunities based on specific criteria such as industry, location, and skill level.",
+                  "Added personalized job recommendations based on user profiles and previous interactions to improve job match relevance.",
+                  "Implemented a streamlined application process, enabling users to apply for multiple jobs with ease.",
+                  "Enhanced recruiter tools for better candidate tracking, communication, and management throughout the hiring process.",
+                  "Improved overall site performance to ensure fast and responsive navigation, providing a seamless user experience.",
+                  "Ensured mobile responsiveness, making the platform accessible and user-friendly on various devices.",
+                  "Focused on building a secure and reliable system, protecting user data and maintaining privacy compliance.",
+                  "Worked closely with stakeholders to prioritize and address feedback, aligning platform improvements with user needs and industry standards."
+               ],
+               "technologiesUsed": "Angular, SQL, C#",
+               "Image": "/projects/joberra.svg"
+            },
+            {
+               "Company": "Tekreant india pvt ltd",
+               "title": "Task Manager",
+               "description": [
+                  "Task Manager application focused on optimizing workflow organization and enhancing productivity for both individuals and teams.",
+                  "Developed to create a seamless experience, Task Manager allows users to create, assign, track, and prioritize tasks efficiently, ensuring clear project visibility and accountability.",
+                  "The platform is designed to handle diverse tasks across multiple projects, adapting to various workflows and deadlines to meet team needs.",
+                  "Features include detailed task assignment capabilities, progress tracking, and deadline management, promoting streamlined collaboration and efficient task resolution.",
+                  "With an intuitive interface, Task Manager minimizes the learning curve, enabling quick adoption for users at all experience levels.",
+                  "The application's modular structure supports scaling, accommodating both small teams and larger organizations with ease.",
+                  "Task Manager provides real-time updates and notifications to keep team members informed, reducing bottlenecks and ensuring smooth progress.",
+                  "Emphasis on customization allows users to tailor task views, priorities, and categories to match specific project requirements and individual preferences."
+               ],
+               "technologiesUsed": "Vue.Js, node.js, MongoDB",
+               "Image": "/projects/task-manager.svg"
+            },
+            {
+               "Company": "Tekreant india pvt ltd",
+               "title": "Client Enrollment",
+               "description": [
+                  "Developed a robust and user-friendly platform for enrolling clients into various programs and services.",
+                  "Streamlined the client onboarding process, reducing administrative overhead and improving efficiency.",
+                  "Designed the system to enhance data accuracy by automating data entry and validation processes.",
+                  "Improved communication between clients and staff by integrating features for real-time updates and notifications.",
+                  "Enabled seamless client management, allowing staff to track enrollment progress and client status.",
+                  "Incorporated customizable workflows to support different types of programs and services.",
+                  "Focused on intuitive navigation and user interface, ensuring ease of use for both staff and clients.",
+                  "Implemented security measures to protect sensitive client information and ensure compliance with data protection regulations."
+               ],
+               "technologiesUsed": "Next.Js, Node.Js, MongoDB",
+               "Image": "/projects/clientEnrollment.svg"
+            },
+            {
+               "Company": "Tekreant india pvt ltd",
+               "title": "MR Yoda",
+               "description": [
+                  "MR Yoda is an e-commerce website designed to provide a seamless experience for users to book appointments.",
+                  "Users can browse through various services offered and select the time slot that suits them best for their appointments.",
+                  "The platform allows secure and easy payment processing, enabling users to complete their bookings without hassle.",
+                  "It supports multiple payment options, ensuring convenience for customers from various regions.",
+                  "The website aims to enhance user experience by providing a straightforward, intuitive interface for booking and payments.",
+                  "With MR Yoda, users can also manage their appointments and payment history through a personalized account dashboard."
+               ],
+               "technologiesUsed": "Next.Js, Node.Js, PostgreSQL",
+               "Image": "/projects/mryoda.jpeg"
+            }
+         ]
+      }
+   }
